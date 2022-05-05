@@ -1,2 +1,3 @@
 # Storage
-simple storage in solidity 
+simple storage smart contract 
+solidity
